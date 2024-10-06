@@ -1,0 +1,15 @@
+button{
+    width: 200px;
+    height: 70px;
+    border-radius: 8px;
+    background-color: blueviolet;
+    border: 1px solid black;
+    color: white;
+    border-color: transparent;
+    margin-bottom: 20px;
+    transition: background-color 500ms;
+}
+
+button:hover{
+    background-color: palevioletred;
+}
